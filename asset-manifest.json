@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/starlette_hotel_booking/static/css/main.f6176518.chunk.css",
+    "main.js": "/starlette_hotel_booking/static/js/main.d2eb1503.chunk.js",
+    "main.js.map": "/starlette_hotel_booking/static/js/main.d2eb1503.chunk.js.map",
+    "runtime-main.js": "/starlette_hotel_booking/static/js/runtime-main.d4bbf400.js",
+    "runtime-main.js.map": "/starlette_hotel_booking/static/js/runtime-main.d4bbf400.js.map",
+    "static/css/2.55d6cd83.chunk.css": "/starlette_hotel_booking/static/css/2.55d6cd83.chunk.css",
+    "static/js/2.9356f68f.chunk.js": "/starlette_hotel_booking/static/js/2.9356f68f.chunk.js",
+    "static/js/2.9356f68f.chunk.js.map": "/starlette_hotel_booking/static/js/2.9356f68f.chunk.js.map",
+    "static/js/3.5263d583.chunk.js": "/starlette_hotel_booking/static/js/3.5263d583.chunk.js",
+    "static/js/3.5263d583.chunk.js.map": "/starlette_hotel_booking/static/js/3.5263d583.chunk.js.map",
+    "index.html": "/starlette_hotel_booking/index.html",
+    "precache-manifest.24dd9baa81b876a9e608957bdb9bf80c.js": "/starlette_hotel_booking/precache-manifest.24dd9baa81b876a9e608957bdb9bf80c.js",
+    "service-worker.js": "/starlette_hotel_booking/service-worker.js",
+    "static/css/2.55d6cd83.chunk.css.map": "/starlette_hotel_booking/static/css/2.55d6cd83.chunk.css.map",
+    "static/css/main.f6176518.chunk.css.map": "/starlette_hotel_booking/static/css/main.f6176518.chunk.css.map",
+    "static/js/2.9356f68f.chunk.js.LICENSE.txt": "/starlette_hotel_booking/static/js/2.9356f68f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/starlette_hotel_booking/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4bbf400.js",
+    "static/css/2.55d6cd83.chunk.css",
+    "static/js/2.9356f68f.chunk.js",
+    "static/css/main.f6176518.chunk.css",
+    "static/js/main.d2eb1503.chunk.js"
+  ]
+}
