@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <Navbar/>
 
-      <BrowserRouter basename="/starlette_hotel_booking">
+      <BrowserRouter>
 
       <Routes>
 
